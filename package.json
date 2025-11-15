@@ -2,7 +2,7 @@
   "name": "console-tree",
   "displayName": "Console Tree",
   "description": "Tree view to find, navigate and remove console statements from your project.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "MarcosKlender",
   "author": {
     "name": "Klender Carrasco",
