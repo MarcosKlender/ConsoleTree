@@ -19,7 +19,7 @@
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/marcosklender.console-tree)
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/marcosklender.console-tree) -->
 
-A Visual Studio Code extension that provides a tree view to easily find, navigate, and remove console statements from your project.
+Extension that provides a tree view to easily find, navigate, and remove console statements from your project.
 
 </div>
 
@@ -60,7 +60,7 @@ A Visual Studio Code extension that provides a tree view to easily find, navigat
 ### From VS Code Marketplace
 
 1. Open Visual Studio Code
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+2. Go to Extensions `(Ctrl + Shift + X / Cmd + Shift + X)`
 3. Search for "Console Tree"
 4. Click Install
 
@@ -73,15 +73,15 @@ pnpm install
 pnpm run compile
 ```
 
-Then press F5 to test the extension.
+Then press `F5` to test the extension.
 
 <p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
 
 ## Usage
 
 1. Open a project in VSCode
-2. Click on the **Console Tree** icon in the Activity Bar (sidebar)
-3. The tree view will show all console statements in your project organized by files
+2. Click on the **Console Tree** icon in the Activity Bar (Sidebar)
+3. The tree view will show all `console statements` in your project organized by files
 4. **Navigate**: Click on any console statement to jump to that line
 5. **Remove individual**: Click the trash icon next to any console statement
 6. **Remove all**: Click the trash icon in the tree view title bar
@@ -91,7 +91,7 @@ Then press F5 to test the extension.
 
 ## Configuration
 
-You can customize Console Tree in your VSCode settings:
+You can customize Console Tree in your VSCode Settings:
 
 ```json
 {
