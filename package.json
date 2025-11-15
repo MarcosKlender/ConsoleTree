@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "engines": {
-    "vscode": "^1.60.0"
+    "vscode": "^1.106.0"
   },
   "categories": [
     "Debuggers",
@@ -46,6 +46,9 @@
     "color": "#1e1e1e",
     "theme": "dark"
   },
+  "activationEvents": [
+    "onView:consoleTree"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
