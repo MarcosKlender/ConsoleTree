@@ -1,8 +1,50 @@
-# Console Tree 🌳
+<a id="readme-top"></a>
+
+<div align="center">
+
+![Visual Stuido Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/110px-Visual_Studio_Code_1.35_icon.svg.png)
+
+</div>
+
+<h1 align="center">Console Tree</h1>
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+
+<!-- ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/marcosklender.console-tree)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/marcosklender.console-tree)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/marcosklender.console-tree)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/marcosklender.console-tree) -->
 
 A Visual Studio Code extension that provides a tree view to easily find, navigate, and remove console statements from your project.
 
-## ✨ Features
+</div>
+
+![Basic Usage of the Extension](./screenshots/usage.gif)
+
+## Table of Contents
+
+  <ol>
+    <li><a href="#features">Features</a></li>
+    <li>
+      <a href="#installation">Installation</a>
+      <ul>
+        <li><a href="#from-vs-code-marketplace">From VS Code Marketplace</a></li>
+        <li><a href="#from-source">From Source</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#configuration">Configuration</a></li>
+    <li><a href="#supported-file-types">Supported File Types</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+
+## Features
 
 🌳 **Tree View Interface** - Browse all console statements organized by files  
 🔍 **Smart Detection** - Finds console.log, console.warn, console.error, console.info, and console.debug  
@@ -11,7 +53,9 @@ A Visual Studio Code extension that provides a tree view to easily find, navigat
 ⚡ **Auto-Refresh** - Tree updates automatically when you modify files  
 ⚙️ **Configurable** - Customize file patterns and search patterns
 
-## 📦 Installation
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Installation
 
 ### From VS Code Marketplace
 
@@ -31,7 +75,9 @@ pnpm run compile
 
 Then press F5 to test the extension.
 
-## 🚀 Usage
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Usage
 
 1. Open a project in VSCode
 2. Click on the **Console Tree** icon in the Activity Bar (sidebar)
@@ -41,7 +87,9 @@ Then press F5 to test the extension.
 6. **Remove all**: Click the trash icon in the tree view title bar
 7. **Refresh**: Click the refresh icon to manually update the tree
 
-## ⚙️ Configuration
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Configuration
 
 You can customize Console Tree in your VSCode settings:
 
@@ -71,7 +119,9 @@ You can customize Console Tree in your VSCode settings:
 }
 ```
 
-## 🎯 Supported File Types
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Supported File Types
 
 - JavaScript (`.js`, `.mjs`, `.cjs`)
 - TypeScript (`.ts`)
@@ -79,7 +129,9 @@ You can customize Console Tree in your VSCode settings:
 - Vue.js (`.vue`)
 - Svelte (`.svelte`)
 
-## 🤝 Contributing
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -89,20 +141,26 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch
 5. Open a Pull Request
 
-## 📝 License
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+## Acknowledgments
 
 If you find this extension helpful and give credits, it would be greatly appreciated! Feel free to:
 
 - ⭐ Star this repository
 - 🐛 Report issues or suggest improvements
 - 💬 Share your experience with the extension
+- 🚀 Enjoy coding without console clutter
 
 ---
 
-- Inspired by the popular Todo Tree extension
-- Made with ❤️ for the VS Code community
-- Enjoy coding without console clutter! 🚀
+- Inspired by the popular [Todo Tree extension](https://github.com/Gruntfuggly/todo-tree)
+- Made with ❤️ for the VS Code community!
+
+<p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
