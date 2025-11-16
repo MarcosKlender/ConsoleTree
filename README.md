@@ -14,28 +14,22 @@
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-<!-- ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/marcosklender.console-tree)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/marcosklender.console-tree)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/marcosklender.console-tree)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/marcosklender.console-tree)
-![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/marcosklender.console-tree) -->
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/marcosklender.console-tree)
 
 Extension that provides a tree view to easily find, navigate, and remove console statements from your project.
 
-</div>
-
 ![Basic Usage of the Extension](./screenshots/usage.gif)
+
+</div>
 
 ## Table of Contents
 
   <ol>
     <li><a href="#features">Features</a></li>
-    <li>
-      <a href="#installation">Installation</a>
-      <ul>
-        <li><a href="#from-vs-code-marketplace">From VS Code Marketplace</a></li>
-        <li><a href="#from-source">From Source</a></li>
-      </ul>
-    </li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#configuration">Configuration</a></li>
     <li><a href="#supported-file-types">Supported File Types</a></li>
@@ -57,12 +51,13 @@ Extension that provides a tree view to easily find, navigate, and remove console
 
 ## Installation
 
-### From VS Code Marketplace
+### Visual Studio Code
 
-1. Open Visual Studio Code
-2. Go to Extensions `(Ctrl + Shift + X / Cmd + Shift + X)`
-3. Search for "Console Tree"
-4. Click Install
+Search for **"Console Tree"** in the Extensions panel or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MarcosKlender.console-tree).
+
+### Cursor / Windsurf / VSCodium
+
+Search for **"Console Tree"** in the Extensions panel or install directly from [Open VSX Registry](https://open-vsx.org/extension/MarcosKlender/console-tree).
 
 ### From Source
 
