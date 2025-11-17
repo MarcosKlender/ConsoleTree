@@ -10,6 +10,9 @@
 
 <div align="center">
 
+[![VS Code Marketplace](https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-0078D4?style=for-the-badge&link=https://astro.build/themes/details/astrolinkhub/)](https://marketplace.visualstudio.com/items?itemName=MarcosKlender.console-tree)
+[![Open VSX Registry](https://img.shields.io/badge/And-Open%20VSX%20Registry-A50EE6?style=for-the-badge&link=https://astro.build/themes/details/astrolinkhub/)](https://open-vsx.org/extension/MarcosKlender/console-tree)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
